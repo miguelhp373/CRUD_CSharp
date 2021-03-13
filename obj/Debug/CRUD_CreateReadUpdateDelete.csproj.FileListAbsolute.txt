@@ -1,0 +1,10 @@
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\bin\Debug\CRUD_CreateReadUpdateDelete.exe.config
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\bin\Debug\CRUD_CreateReadUpdateDelete.exe
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\bin\Debug\CRUD_CreateReadUpdateDelete.pdb
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.Form1.resources
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.Properties.Resources.resources
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.exe
+C:\Users\migue\OneDrive\Documentos\Projetos\CSharp\CRUD_CreateReadUpdateDelete\obj\Debug\CRUD_CreateReadUpdateDelete.pdb
